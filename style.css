@@ -1,0 +1,23 @@
+body{
+	background-color: #000;
+}
+#mainpicture{
+	width: 500px;
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#fb{
+	width: 100px;
+}
+#ig{
+	width: 100px;
+}
+#tw{
+	width: 100px;
+}
+#header{
+	text-align: center;
+}
+#
